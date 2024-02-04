@@ -1,6 +1,5 @@
 package model.toy;
 
-
 import model.toylist.ToyItem;
 
 import java.util.Comparator;

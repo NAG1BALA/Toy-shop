@@ -1,6 +1,8 @@
 package model.writer;
 
 
+import model.toylist.ToyList;
+
 import java.io.*;
 
 public class FileHandler implements Writable {
