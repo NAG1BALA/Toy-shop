@@ -1,7 +1,7 @@
-package model.writer;
+package src.model.writer;
 
 
-import model.toylist.ToyList;
+import src.model.toylist.ToyList;
 
 import java.io.*;
 

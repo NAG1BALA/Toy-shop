@@ -1,6 +1,6 @@
-package model.toy;
+package src.model.toy;
 
-import model.toylist.ToyItem;
+import src.model.toylist.ToyItem;
 
 import java.io.Serializable;
 

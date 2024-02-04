@@ -1,4 +1,4 @@
-package model.toy;
+package src.model.toy;
 
 public class ToyBuilder {
 

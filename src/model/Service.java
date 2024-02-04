@@ -1,11 +1,8 @@
-package model;
+package src.model;
 
-
-
-import model.toy.Toy;
-import model.toy.ToyBuilder;
-import model.toylist.ToyList;
-import model.writer.Writable;
+import src.model.toy.Toy;
+import src.model.toy.ToyBuilder;
+import src.model.toylist.ToyList;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -13,7 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 import java.util.stream.Collectors;
-
+import src.model.writer.Writable;
 public class Service {
     private ToyList toyList;
     private ToyBuilder builder;

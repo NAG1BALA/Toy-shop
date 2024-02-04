@@ -1,4 +1,4 @@
-package model.toylist;
+package src.model.toylist;
 
 public interface ToyItem {
     int getId();

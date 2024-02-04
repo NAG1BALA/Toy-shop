@@ -1,7 +1,7 @@
-package model.toylist;
+package src.model.toylist;
 
-import model.toy.Toy;
-import model.toy.ToyComparator;
+import src.model.toy.Toy;
+import src.model.toy.ToyComparator;
 
 import java.io.Serializable;
 import java.util.*;
