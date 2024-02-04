@@ -1,4 +1,6 @@
-package model;
+package model.toy;
+
+import model.toy.Toy;
 
 public class ToyBuilder {
 

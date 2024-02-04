@@ -1,9 +1,11 @@
-package model;
+package model.toy;
 
+
+import model.toylist.ToyItem;
 
 import java.io.Serializable;
 
-public class Toy implements Serializable{
+public class Toy implements Serializable, ToyItem {
 
     private int id;
     private String name;
